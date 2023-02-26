@@ -10,16 +10,16 @@
 	"unityinter": "Interstitial_Android",
 	"unityreward": "Rewarded_Android",
 
-	"admobbannerId": "ca-app-pub-8667051336339730/8907324011",
-	"admobInterId": "ca-app-pub-8667051336339730/7594242340",
-	"admobReward": "ca-app-pub-8667051336339730/2256772290",
+	"admobbannerId": "ca-app-pub-3940256099942544/6300978111",
+	"admobInterId": "ca-app-pub-3940256099942544/1033173712",
+	"admobReward": "ca-app-pub-3940256099942544/5224354917",
 	"admobOpenadsid": "ca-app-pub-3940256099942544/3419835294",
 
 	"adscounter": "0",
 	
 		"adsSwitch details ": "0 auto 1 admob 2 unity",
-	"adsSwitchInter": "2",
-	"adsSwitchBanner": "2",
+	"adsSwitchInter": "1",
+	"adsSwitchBanner": "1",
 	"adsSwitchReward": "2"
 	
 	
